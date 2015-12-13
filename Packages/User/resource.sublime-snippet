@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<res label="${1:label}">${2:text}</res>
+]]></content>
+	<tabTrigger>res</tabTrigger>
+</snippet>

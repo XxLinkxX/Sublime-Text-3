@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<term cond="${1:cond}">${2:text}</term>
+]]></content>
+	<tabTrigger>term</tabTrigger>
+</snippet>

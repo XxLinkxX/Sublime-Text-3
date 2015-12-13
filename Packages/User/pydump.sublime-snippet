@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+#TODO: Remove dump()
+import pprint
+import struct
+def dump(obj):
+  for attr in dir(obj):
+    if hasattr(obj, attr):
+      pprint.pprint((attr, getattr(obj, attr)), indent=2)
+      print "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+]]></content>
+</snippet>

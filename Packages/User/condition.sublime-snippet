@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<condition label="${1:label}" cond="${2:cond}">${3:text}</condition>
+]]></content>
+	<tabTrigger>condition</tabTrigger>
+</snippet>

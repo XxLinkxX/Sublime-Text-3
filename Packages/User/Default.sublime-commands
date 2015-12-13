@@ -1,0 +1,47 @@
+[
+	{
+		"caption": "Number Range",
+		"command": "range",
+		"args": {}
+	},
+	{
+		"caption": "Make List Grid",
+		"command": "grid_me",
+		"args": {}
+	},
+	{
+		"caption": "Read Only",
+		"command": "read_only",
+		"args": {}
+	},
+	{
+		"caption": "Large Comment",
+		"command": "large_comment",
+		"args": {}
+	},
+	{
+		"caption": "Small Comment",
+		"command": "small_comment",
+		"args": {}
+	},
+	{
+		"caption": "Underline",
+		"command": "underline",
+		"args": {}
+	},
+	{
+		"caption": "Bold",
+		"command": "bold",
+		"args": {}
+	},
+	{
+		"caption": "Italicize",
+		"command": "italic",
+		"args": {}
+	},
+	{
+		"caption": "Dump",
+		"command": "dump",
+		"args": {}
+	}
+]

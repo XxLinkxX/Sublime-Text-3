@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<res label="rad1dcomment"   >Please select one.</res>
+<res label="rad2dcomment"   >Please select one for each row.</res>
+<res label="check1dcomment" >Please select all that apply.</res>
+<res label="check2dcomment" >Please select all that apply for each row.</res>
+<res label="openareacomment">Please be as specific as possible.</res>
+<res label="opencomment"    >Please be as specific as possible.</res>
+<res label="numcom"         >Please enter a whole number.</res>
+<res label="dropcomment"    >Please select one from the dropdown.</res>
+]]></content>
+	<tabTrigger>comments</tabTrigger>
+</snippet>
